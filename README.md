@@ -6,7 +6,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
 [![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/samiullahk997)
 [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/fullstop125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fullstop125" height="30" width="40" /></a>
+<a href="https://twitter.com/moseshassany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moseshassany" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/momanyi-hassan-32a489180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momanyi-hassan-32a489180" height="30" width="40" /></a>
+<a href="https://instagram.com/hassanymoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassanymoses" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fullstop125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fullstop125" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ֆǟʍǟʀɨȶǟռռ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ֆǟʍǟʀɨȶǟռռ" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/goodsamaritan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goodsamaritan" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/goodsamaritan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="goodsamaritan" height="30" width="40" /></a>
+</p>
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
