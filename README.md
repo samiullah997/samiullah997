@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Samiullah! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2> Hi, I'm Samiullah! <img src="https://www.funimada.com/assets/images/cards/big/hello-11.gif" width="70" height="40"></h2>
 <img align='right' src="https://i.pinimg.com/originals/9e/75/9f/9e759fd37ccd98da121b670249f34afa.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
