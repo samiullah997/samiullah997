@@ -1,11 +1,12 @@
 
 <h2> Hi, I'm Samiullah! <img src="https://www.funimada.com/assets/images/cards/big/hello-11.gif" width="70" height="40"></h2>
+<p><img src="https://img.shields.io/badge/Sami%20Ullah-is%20Available%20for%20Hire%20-blueviolet" alt=""></p>
 <img align='right' src="https://i.pinimg.com/originals/9e/75/9f/9e759fd37ccd98da121b670249f34afa.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/samiullahk997)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
+[![Linkedin Badge](https://img.shields.io/badge/-Samiullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
+[![Twitter Badge](https://img.shields.io/badge/-samiullah_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/samiullahk997)
+[![ThePracticalDev Badge](https://img.shields.io/badge/-samiullah-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fullstop125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fullstop125" height="30" width="40" /></a>
