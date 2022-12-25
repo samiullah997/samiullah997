@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samiullah</h1>
 <h3 align="center">Remote Full-stack web developer ready for adventure</h3>
 
+<img width="100%" height="300px" src="https://qph.cf2.quoracdn.net/main-qimg-939646510c2a1f4f703179e5f84f1d1d"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiullah997&label=Profile%20views&color=0e75b6&style=flat" alt="samiullah997" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiullah997" alt="samiullah997" /></a> </p>
@@ -11,11 +13,11 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👨‍💻 All of my projects are available at [https://samiullah997.github.io/Portfolio-Mobile/](https://samiullah997.github.io/Portfolio-Mobile/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://samiullah997.github.io/Portfolio-Mobile/)
 
 - 📫 How to reach me **samiullahk997@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Y_dvAt2U1VWTzR3RxflV-hJAE-sZeAq8hqLZipMgKd0/edit?usp=sharing](https://docs.google.com/document/d/1Y_dvAt2U1VWTzR3RxflV-hJAE-sZeAq8hqLZipMgKd0/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Y_dvAt2U1VWTzR3RxflV-hJAE-sZeAq8hqLZipMgKd0/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
