@@ -13,11 +13,9 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://samiullah997.github.io/Portfolio-Mobile/)
+- 👨‍💻 All of my projects are available at [samiullah997](https://github.com/samiullah997?tab=repositories)
 
 - 📫 How to reach me **samiullahk997@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Y_dvAt2U1VWTzR3RxflV-hJAE-sZeAq8hqLZipMgKd0/edit?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
