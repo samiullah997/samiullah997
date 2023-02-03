@@ -14,6 +14,7 @@
 - 👨‍💻 All of my projects are viewable on my [samiullah997](https://github.com/samiullah997?tab=repositories)
 
 - 📫 How to reach me **samiullahk997@gmail.com**
+- 🗄️ Learn about my experiences on my [Resume](https://drive.google.com/file/d/1lCSqrSKJ6IJjAr_RtBr5ajaDlrshhkx4/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
