@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👨‍💻 All of my projects are viewable on my [samiullah997](https://github.com/samiullah997?tab=repositories)
+- 👨‍💻 All of my projects are viewable on my [Portfolio](https://sami-portfolio-site.netlify.app)
 
 - 📫 How to reach me **samiullahk997@gmail.com**
 - 🗄️ Learn about my experiences on my [Resume](https://drive.google.com/file/d/1lCSqrSKJ6IJjAr_RtBr5ajaDlrshhkx4/view?usp=sharing)
