@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/samiullahk997" target="blank"><img src="https://img.shields.io/twitter/follow/samiullahk997?logo=twitter&style=for-the-badge" alt="samiullahk997" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby On Rails**
-
 - 👨‍💻 All of my projects are viewable on my [Portfolio](https://sami-portfolio-site.netlify.app)
 
 - 📫 How to reach me **samiullahk997@gmail.com**
