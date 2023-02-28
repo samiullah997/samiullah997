@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiullah</h1>
-<h3 align="center">Remote Full Stack Software Engineer ready for adventure</h3>
+<h3 align="center">Remote Full Stack Software Web Developer ready for adventure</h3>
 
 <img width="100%" height="300px" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif"/>
 
